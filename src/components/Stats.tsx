@@ -3,7 +3,6 @@ import fetcher from "../lib/fetcher";
 import type {
   GithubStats,
   LastFmUserResponse,
-  UmamiResponse,
   WakatimeStats,
 } from "../lib/types";
 import { FiExternalLink } from "react-icons/fi";
