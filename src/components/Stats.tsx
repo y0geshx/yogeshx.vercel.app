@@ -72,7 +72,7 @@ export default function Stats() {
      {
       title: "Source",
       value: "Github",
-      link: "https://github.com/vibrantfix/vibrantfix.vercel.app",
+      link: "https://github.com/vibrantfix/yogeshx.vercel.app",
     },
   ];
 
