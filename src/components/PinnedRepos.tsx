@@ -9,7 +9,7 @@ export default function PinnedRepos(props: { pinnedRepos: PinnedRepos }) {
         className="dark:text-zinc-200 text-zinc-900 text-[2.5rem] font-extrabold leading-none m-0"
         id="projects"
       >
-        Top Projects
+        My Projects
       </h2>
       <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 w-full gap-6">
         {props.pinnedRepos.map((repo, index) => (

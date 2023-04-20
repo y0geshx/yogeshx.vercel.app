@@ -11,16 +11,13 @@ Checkout the repo for [create-t3-app](https://github.com/t3-oss/create-t3-app), 
 
 My site uses all of these pieces of tech and [Planetscale's free tier](https://planetscale.com) for the database.
 
-## usage
-This repo is MIT licensed, so you are free to use the code to create your own site, but please make sure you give proper attribution to my own site. That would help me create more open source projects which could be used by others freely, thank you!
-
 ## run locally
 clone the repo and cd into it
 ```bash
-git clone this project
-cd my-site
+git clone https://github.com/vibrantfix/vibrantfix.vercel.app.git my-website
+cd my-website
 ```
-install deps
+install dependencies
 ```bash
 pnpm i 
 ```

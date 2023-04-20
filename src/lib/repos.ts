@@ -4,7 +4,7 @@ import axios from "axios";
 
 export async function getPinnedRepos() {
   const res = await axios.get(
-    "https://gist.githubusercontent.com/vibrantfix/83d50091e011b11075626bbc5aab4724/raw/5c8076861028e827bc3ed598aa03a3dcc20e1739/vibrantfix"
+    "https://gist.githubusercontent.com/vibrantfix/e31fa7e26c3291c93b325aef1c47ece8/raw/959d10c1cb32e075b61b3282d0553d74986e1fb8/vibrantfix"
   );
   const repos = res.data;
 
