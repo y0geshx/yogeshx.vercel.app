@@ -1,0 +1,27 @@
+@import url(https://api.fontshare.com/v2/css?f[]=satoshi@900,700,500,301,300,400&display=swap);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#__next {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+@layer base {
+  body,
+  html,
+  .kbar {
+    @apply scrollbar-thin scrollbar-thumb-rounded-lg scrollbar-track-transparent dark:scrollbar-thumb-zinc-800 scrollbar-thumb-zinc-500;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    margin: 0 !important;
+  }
+}
+
+.ball-transitions {
+  transition: opacity 0.2s, transform 0.1s;
+}
