@@ -1,3 +1,6 @@
+## website
+My personal site made using the [t3 stack](https://create.t3.gg) - a fullstack and fully typesafe personal site.
+
 # Create T3 App
 
 This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
