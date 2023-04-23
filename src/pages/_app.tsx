@@ -6,6 +6,9 @@ import type { AppType } from "next/app";
 import { trpc } from "../utils/trpc";
 import NextNProgress from "nextjs-progressbar";
 import { ThemeProvider } from "next-themes";
+import type { AppProps } from 'next/app';
+import { Analytics } from '@vercel/analytics/react';
+
 
 const MyApp: AppType<{ session: Session | null }> = ({
   Component,
@@ -19,6 +22,7 @@ const MyApp: AppType<{ session: Session | null }> = ({
           options={{ showSpinner: false, easing: "ease" }}
         />
         <Component {...pageProps} />
+        <Analytics />
       </ThemeProvider>
     </SessionProvider>
   );
