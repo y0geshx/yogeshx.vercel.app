@@ -70,7 +70,7 @@ export default function Stats() {
       link: "https://wakatime.com/@yogeshx",
     },
      {
-      title: "Source",
+      title: "Source Code",
       value: "Github",
       link: "https://github.com/vibrantfix/yogeshx.vercel.app",
     },
