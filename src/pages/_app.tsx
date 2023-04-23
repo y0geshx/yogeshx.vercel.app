@@ -22,20 +22,10 @@ const MyApp: AppType<{ session: Session | null }> = ({
           options={{ showSpinner: false, easing: "ease" }}
         />
         <Component {...pageProps} />
+        <Analytics />
       </ThemeProvider>
     </SessionProvider>
   );
 };
 
 export default trpc.withTRPC(MyApp);
-
-function MyApp({ Component, pageProps }: AppProps) {
-  return (
-    <>
-      <Component {...pageProps} />
-      <Analytics />
-    </>
-  );
-}
- 
-export default MyApp;
