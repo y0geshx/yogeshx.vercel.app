@@ -5,7 +5,7 @@ publish_date: 20 April, 2023
 # About Me
 #### Briefly about me..
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/neon-pixel-art.gif" width="1920" height="324"/>
+  <img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/pixel-night.gif" width="1920" height="324"/>
 </p>
  I'm Yogesh aka vibrantfix on the web I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. 
 

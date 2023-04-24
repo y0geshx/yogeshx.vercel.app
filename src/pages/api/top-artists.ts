@@ -4,7 +4,7 @@ import type { NextRequest } from "next/server";
 import { getTopArtists } from "../../lib/spotify";
 
 export const config = {
-  runtime: "experimental-edge",
+  runtime: "edge",
 };
 
 export default async function handler(req: NextRequest) {
