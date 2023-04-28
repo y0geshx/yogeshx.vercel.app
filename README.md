@@ -3,8 +3,7 @@ My personal site made using the [t3 stack](https://create.t3.gg) - a fullstack a
 
 # Create T3 App
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.The tech stack consists of -
-
+This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.The tech stack consists of :
 - [Next-Auth.js](https://next-auth.js.org)
 - [Prisma](https://prisma.io)
 - [TailwindCSS](https://tailwindcss.com)
