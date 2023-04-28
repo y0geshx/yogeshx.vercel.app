@@ -23,7 +23,7 @@ export const links: Links = [
   {
     name: "Discord",
     url: "https://discord.com/users/942108658148450315",
-    value: "VibrantFix#7827",
+    value: "vibrantfix#7827",
     icon: SiDiscord,
   },
   {
