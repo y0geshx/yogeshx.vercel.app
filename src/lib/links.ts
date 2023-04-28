@@ -40,8 +40,8 @@ export const links: Links = [
   },
   {
     name: "Last.fm",
-    url: "https://www.last.fm/user/YogeshX",
-    value: "@YogeshX",
+    url: "https://www.last.fm/user/yogeshx",
+    value: "@yogeshx",
     icon: SiLastdotfm,
   },
   {
