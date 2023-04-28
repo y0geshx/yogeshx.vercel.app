@@ -57,12 +57,6 @@ export const links: Links = [
     icon: SiTelegram,
   },
   {
-    name: "Reddit",
-    url: "https://www.reddit.com/u/",
-    value: "n/a",
-    icon: SiReddit,
-  },
-  {
     name: "Dev.to",
     url: "https://dev.to/yogeshx",
     value: "@yogeshx",
