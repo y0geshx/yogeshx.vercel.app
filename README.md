@@ -15,8 +15,6 @@ We try to emphasize that these files are javascript for a reason, by explicitly 
 
 We try to keep this project as simple as possible, so you can start with the most basic configuration and then move on to more advanced configuration.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
 - [Next-Auth.js](https://next-auth.js.org)
 - [Prisma](https://prisma.io)
 - [TailwindCSS](https://tailwindcss.com)
@@ -35,8 +33,8 @@ My site uses all of these pieces of tech and [Planetscale's free tier](https://p
 ## run locally
 clone the repo and cd into it
 ```bash
-git clone https://github.com/vibrantfix/vibrantfix.vercel.app.git my-website
-cd my-website
+git clone https://github.com/vibrantfix/yogeshx.vercel.app.git Mywebsite
+cd Mywebsite
 ```
 install dependencies
 ```bash
