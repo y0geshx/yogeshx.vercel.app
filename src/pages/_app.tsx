@@ -6,7 +6,6 @@ import type { AppType } from "next/app";
 import { trpc } from "../utils/trpc";
 import NextNProgress from "nextjs-progressbar";
 import { ThemeProvider } from "next-themes";
-import type { AppProps } from 'next/app';
 import { Analytics } from '@vercel/analytics/react';
 
 
