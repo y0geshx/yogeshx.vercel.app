@@ -5,7 +5,6 @@ import {
   SiLastdotfm,
   SiSpotify,
   SiTelegram,
-  SiReddit,
   SiDevdotto,
 } from "react-icons/si";
 import { IconType } from "react-icons";
