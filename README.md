@@ -2,7 +2,7 @@
 My personal site made using the [t3 stack](https://create.t3.gg) - a fullstack and fully typesafe personal site.
 
 [![Website](https://img.shields.io/website?label=yogeshx.vercel.app&style=for-the-badge&up_message=online&url=https%3A%2F%2Fyogeshx.vercel.app)](https://yogeshx.vercel.app)
-[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=yogeshx&style=for-the-badge)](https://yogeshx.vercel.app)
+[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=yogeshx&style=for-the-badge)](https://github.com/vibrantfix/yogeshx.vercel.app)
 
 # Create T3 App
 
